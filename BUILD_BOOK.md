@@ -6,6 +6,7 @@
 **Czytelnik docelowy:** osoba znająca Pythona, ale nie PsychoPy, LSL ani tego projektu, przy czystym komputerze z Windows (stanowisko LBK). Polecenia podajemy w dwóch wariantach: **Windows** (`py -3 …`, PowerShell) i **macOS** (`python3 …`, Terminal). Wszystkie polecenia uruchamiamy **z katalogu głównego repozytorium** (tam, gdzie leży ten plik).
 
 **Oznaczenia autorów:** DK – Diana Kalinina, OS – Oleksandr Shamak. Przy każdym kroku: **wykonanie** – kto zrobił dany krok na komputerze; **opis** – kto napisał i zredagował opis kroku w Build Booku; data.
+**repo** - https://github.com/qqewwq/KL-B
 
 ---
 
