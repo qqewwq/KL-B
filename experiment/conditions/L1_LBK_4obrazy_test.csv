@@ -1,0 +1,5 @@
+trial_id,stimulus_id,image_file,block,condition,stim_width,stim_height
+1,BODZIEC_A,stimuli/Bodziec A.PNG,1,pejzaz_ciepla,716,476
+2,BODZIEC_B,stimuli/Bodziec B.PNG,1,pejzaz_zimna,715,477
+3,BODZIEC_C,stimuli/Bodziec C.PNG,1,twarz_ciepla,594,476
+4,BODZIEC_D,stimuli/Bodziec D.PNG,1,twarz_zimna,595,476

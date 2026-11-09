@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+experiment/data/
+*.psydat
+*.log
+_do_usuniecia/
+# Nagrania z aparatury LBK NIE trafiają do repozytorium – w sample_data/ tylko symulator i MouseGaze
